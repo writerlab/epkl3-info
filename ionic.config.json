@@ -1,0 +1,7 @@
+{
+  "name": "epkl3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
